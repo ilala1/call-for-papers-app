@@ -1,5 +1,7 @@
 # Conference Admin Panel
 
+This was a challenge that was given to me which was completed in a different repository which i've copied over to my personal. This is my completed solution
+
 You are creating an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) of a conference admin panel.
 
 This task uses **React Hooks**, **React Router** and **React Testing Library (`@testing-library/react`)**.
